@@ -1,0 +1,1 @@
+##Arquivo app.js contém a importação da bibiblioteca InputMask
